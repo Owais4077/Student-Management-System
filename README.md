@@ -1,2 +1,13 @@
-# Student-Management-System
-The Student Management System is a simple CRUD-based web application built using Flask (Python) and MySQL. It allows users to add, view, and delete student records efficiently. The project demonstrates fundamental database operations and web application development using Flask as a backend framework.
+# Student Management System
+
+This is a simple CRUD (Create, Read, Update, Delete) Student Management System using Flask and MySQL.
+
+## Features
+- Add new students
+- View all students
+- Delete student records
+
+## Installation
+1. Install dependencies: `pip install flask mysql-connector-python`
+2. Set up the database: Run `database.sql` in MySQL
+3. Run the app: `python app.py`
